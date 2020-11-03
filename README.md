@@ -23,7 +23,7 @@
 共有の仕組みはSlackと似ている。ルームに人を招待し、カメラを起動してARメモを空間上に置く。位置情報と作成者の情報がタイムライン上に流れ、ルーム内にいる人たちはその指定位置でカメラをかざすと３Dモデルのメモを視認できる。<br>
 
 詳細は以下↓↓↓<br>
-<a href="https://github.com/chestnutman/shARe_app.git">GitHub "shARe"</a><br>
+<a href="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_Portfolio/shARe_Detail.md">GitHub "shARe"</a><br>
 
 <img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_pic01.png">
 
@@ -34,7 +34,7 @@
 提案システムではスマートフォンやウェブサービスの機能を組み合わせ、カレンダーやToDoリストに基づきユーザの生活を管理する機能や、 ユーザの行動を監視や制限する機能により、自己管理を促す。<br>
 
 詳細は以下↓↓↓<br>
-<a href="https://github.com/chestnutman/KanoSapo.git">GitHub "KanoSapo" </a><br>
+<a href="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_Detail.md">GitHub "KanoSapo" </a><br>
 
 <img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/menhera_pic01.png">
 
@@ -42,9 +42,9 @@
 詳細は以下↓↓↓<br>
 説明文が<br>
 ここに入ります。<br>
-<a href="https://github.com/chestnutman/KanoSapo.git">GitHub "BRWN"</a><br>
+<a href="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_Portfolio/BRWN_Detail.md">GitHub "BRWN"</a><br>
 
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_pic06.png" width="300" height="300">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_pic06.png" width="350" height="350">
 
 ### SNS
 - <a href= "https://www.facebook.com/riku.yanagimachi">Facebook(Riku Yanagimachi)</a><br>
