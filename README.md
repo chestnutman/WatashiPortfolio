@@ -42,9 +42,9 @@
 詳細は以下↓↓↓<br>
 説明文が<br>
 ここに入ります。<br>
-<a href="https://github.com/chestnutman/KanoSapo.git">GitHub "KanoSapo"</a><br>
+<a href="https://github.com/chestnutman/KanoSapo.git">GitHub "BRWN"</a><br>
 
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_pic06.png">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_pic06.png" width="300" height="300">
 
 ### SNS
 - <a href= "https://www.facebook.com/riku.yanagimachi">Facebook(Riku Yanagimachi)</a><br>
