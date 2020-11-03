@@ -25,7 +25,7 @@
 詳細は以下↓↓↓<br>
 <a href="https://github.com/chestnutman/shARe_app.git">GitHub "shARe" コード一覧</a><br>
 
-<img src="https://github.com/chestnutman/portfolio/blob/master/shARe_pic01.png">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_pic01.png">
 
 
 ### ＜チーム開発＞
