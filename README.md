@@ -38,7 +38,7 @@
 
 <img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/menhera_pic01.png">
 
-### BRWN -懐かしいに出会おう。-
+### BRWN -懐かしい、に出会おう。-
 詳細は以下↓↓↓<br>
 説明文が<br>
 ここに入ります。<br>
