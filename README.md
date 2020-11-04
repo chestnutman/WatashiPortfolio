@@ -2,8 +2,8 @@
 ## About Me
 
 名前：柳町 陸<br>
-大学：専修大学3年生 ネットワーク情報学部<br>
-趣味：ビートボックスで、歩くリズム隊の異名を持つ。<br>
+大学：専修大学4年生 ネットワーク情報学部<br>
+趣味：ビートボックス。歩くリズム隊の異名を持つ。<br>
 <br>
 <img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/ProfilePic.jpg" width="300" height="300">
 
