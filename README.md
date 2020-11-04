@@ -8,7 +8,7 @@
 <img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/ProfilePic.jpg" width="300" height="300">
 
 ### 言語
-- Swift(Xcodeを利用したiOSアプリケーションの開発)：今はSwiftの開発ばかりしている。<br>
+- Swift(Xcodeを利用したiOSアプリケーションの開発)：今はSwiftを利用した開発ばかりしている。<br>
 - Java(数年前にチャットサーバを作ったくらい)<br>
 - Python(高校時代、TensorFlowを利用して車の画像認識をTOYOTAの販売店で公開実演)<br>
 
