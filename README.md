@@ -42,7 +42,7 @@
 詳細は以下↓↓↓<br>
 20年以上経営されているお店を「老舗」と定義し、老舗の店舗情報を写真、文章を載せた投稿で共有することができる雑誌風のSNSアプリを開発している。<br>
 近年のグローバル化やITの爆発的普及により、昭和・大正時代の文化や世界観が風化しつつあると感じている。<br>
-あの頃の日本らしさを好きだという老若男女はいて、昔のようにそういった文化がまた少しでも増えれば良いなという気持ちで開発している。<br>　
+あの頃の日本らしさを好きだという老若男女はいて、昔のようにそういった文化がまた少しでも増やしていけないかという気持ちで開発している。<br>　
 <a href="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_Portfolio/BRWN_Detail.md">GitHub "BRWN"</a><br>
 
 <img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_pic06.png" width="350" height="350">
