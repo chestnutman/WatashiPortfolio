@@ -21,7 +21,7 @@
 ### ホーム画面　
 ホーム画面では、ToDoリスト、カレンダー、評価画面の三つの画面にアクセスすることができる。<br>
 その他の要素として、画面上にあるハートモデルのゲージ、"メンヘラメータ"が設置されており、ユーザが設定したタスクをしっかり実行しなければメンヘラメータが上昇していき、容姿の変貌、束縛レベルが上がる。<br>
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_AllPic/menehra_pic02.png" width="393" hight="684" ><img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_AllPic/menehra_pic03.png" width="393" hight="684">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_AllPic/menehra_pic02.png" width="393" hight="684" ><img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_AllPic/menhera_pic03.png" width="393" hight="684">
 
 <br>
 
@@ -29,7 +29,7 @@
 ToDoリスト画面では、実際にタスクを設定することができる。<br>
 ①タスクのタイトル ②目標時間 ③日付<br>
 以上の三つを設定、追加することでリストに表示されるようになる。<br>
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_AllPic/menehra_pic05.png" width="393" hight="684">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_AllPic/menhera_pic05.png" width="393" hight="684">
 
 <br>
 
@@ -38,11 +38,11 @@ ToDoリスト画面では、実際にタスクを設定することができる�
 iPhone既存のカレンダーと同期できるようになっている。その内GoogleClendarとの連携も可能にする予定だ。<br>
 <br>
 ToDoリストの時点では、日付しか設定されておらず、時間を決めていないため、このカレンダーに配置することで、ホーム画面に直近のタスクを表示・タスク実行ができるようになる。<br>
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_AllPic/menehra_pic04.png" width="393" hight="684">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_AllPic/menhera_pic04.png" width="393" hight="684">
 
 <br>
 
 ### 評価画面（ふりかえり）
 評価画面では、その日の達成具合を棒グラフで評価したものと、一週間のメンヘラメータの変動が見れる折れ線グラフによる評価画面の二つの画面がある。<br>
 この画面の展望として、最終的にこのデータを分析し、ユーザ個人個人に合わせたリコメンド機能を追加したい。<br>
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_AllPic/menehra_pic07.png" width="393" hight="684">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_AllPic/menhera_pic07.png.png" width="393" hight="684">
