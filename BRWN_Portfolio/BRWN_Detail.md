@@ -14,19 +14,19 @@
 
 ### ＜機能＞
 ### ログイン画面
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_Portfolio/BRWN_pic01.png" width="393" hight="684"> 
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_Portfolio/BRWN_AllPic/BRWN_pic01.png" width="393" hight="684"> 
 
 ### タイムライン画面（仮）
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_Portfolio/BRWN_pic02.png" width="393" hight="684">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_Portfolio/BRWN_AllPic/BRWN_pic02.png" width="393" hight="684">
 
 ### 投稿詳細画面
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_Portfolio/BRWN_pic05.png" width="393" hight="684">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_Portfolio/BRWN_AllPic/BRWN_pic05.png" width="393" hight="684">
 
 ### 検索画面
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_Portfolio/BRWN_pic03.png" width="393" hight="684">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_Portfolio/BRWN_AllPic/BRWN_pic03.png" width="393" hight="684">
 
 ### プロフィール画面
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_Portfolio/BRWN_pic04.png" width="393" hight="684">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/BRWN_Portfolio/BRWN_AllPic/BRWN_pic04.png" width="393" hight="684">
 
 ### コラム画面
 運営が老舗のオーナーさんをインタビューして紹介するページになっている。実際にはインタビューをいくつかの店舗で行っていて、<br>
