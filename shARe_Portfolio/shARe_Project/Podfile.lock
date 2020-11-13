@@ -1,0 +1,43 @@
+PODS:
+  - ESTabBarController-swift (2.8.0)
+  - NCMB (3.1.0)
+  - Pageboy (3.6.2)
+  - SwiftMessages (8.0.2):
+    - SwiftMessages/App (= 8.0.2)
+  - SwiftMessages/App (8.0.2)
+  - Tabman (2.9.1):
+    - Pageboy (~> 3.6.0)
+
+DEPENDENCIES:
+  - ESTabBarController-swift
+  - NCMB (from `https://github.com/NIFCloud-mbaas/ncmb_ios.git`)
+  - Pageboy (~> 3.2)
+  - SwiftMessages
+  - Tabman (~> 2.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ESTabBarController-swift
+    - Pageboy
+    - SwiftMessages
+    - Tabman
+
+EXTERNAL SOURCES:
+  NCMB:
+    :git: https://github.com/NIFCloud-mbaas/ncmb_ios.git
+
+CHECKOUT OPTIONS:
+  NCMB:
+    :commit: 06072ba57e6ef461cafd20feaa798be0eef0cf8b
+    :git: https://github.com/NIFCloud-mbaas/ncmb_ios.git
+
+SPEC CHECKSUMS:
+  ESTabBarController-swift: 05593a6ad64700b03c0eb60ff625916370aa4136
+  NCMB: c308972109137bf523ec1830bac16de6a31c25f4
+  Pageboy: cf121b9dd48c63f3f281b2a9ec93d02e0f23879b
+  SwiftMessages: 633304165351b8e3dcbb81a71f8efcd86f9c1669
+  Tabman: 085d89c65be9e883629bdaf5b1453a6397e57846
+
+PODFILE CHECKSUM: 34a37ac0527954b2ff94b6c4846ead765a3b97b8
+
+COCOAPODS: 1.7.1

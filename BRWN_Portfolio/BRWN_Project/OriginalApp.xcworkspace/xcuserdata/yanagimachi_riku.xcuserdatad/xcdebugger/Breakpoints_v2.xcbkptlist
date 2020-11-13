@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F21D8EDF-0FEB-4B18-9FD0-F41893F30128"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2ED5754-C842-43FE-AE9B-32B0D7CA108B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OriginalApp/Controllers/MainStoryboard.swift/Search/MagneticBubble/Node.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "padding"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F2ED5754-C842-43FE-AE9B-32B0D7CA108B - 495dcc3810c78d55"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BRWN.Node.selectedScale.getter : CoreGraphics.CGFloat"
+                  moduleName = "BRWN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanagimachi_riku/Downloads/BRWN%E6%9C%80%E6%96%B0%E7%89%88_ver2/OriginalApp/Controllers/MainStoryboard.swift/Search/MagneticBubble/Node.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "F2ED5754-C842-43FE-AE9B-32B0D7CA108B - aa9da578bd0e5d61"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BRWN.Node.selectedScale.setter : CoreGraphics.CGFloat"
+                  moduleName = "BRWN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanagimachi_riku/Downloads/BRWN%E6%9C%80%E6%96%B0%E7%89%88_ver2/OriginalApp/Controllers/MainStoryboard.swift/Search/MagneticBubble/Node.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "F2ED5754-C842-43FE-AE9B-32B0D7CA108B - 73aa0be198c2f150"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BRWN.Node.selectedScale.modify : CoreGraphics.CGFloat"
+                  moduleName = "BRWN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanagimachi_riku/Downloads/BRWN%E6%9C%80%E6%96%B0%E7%89%88_ver2/OriginalApp/Controllers/MainStoryboard.swift/Search/MagneticBubble/Node.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "F2ED5754-C842-43FE-AE9B-32B0D7CA108B - e1267d32f8896161"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BRWN.Node.selectedScale.modify : CoreGraphics.CGFloat with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BRWN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanagimachi_riku/Downloads/BRWN%E6%9C%80%E6%96%B0%E7%89%88_ver2/OriginalApp/Controllers/MainStoryboard.swift/Search/MagneticBubble/Node.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFAE507D-4548-4B95-A3EC-240B587089AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OriginalApp/Controllers/MainStoryboard.swift/Search/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "magneticBubbleView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6D38B58-0720-48B0-A6E5-075FC8E0CECC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OriginalApp/Controllers/MainStoryboard.swift/Search/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45380F12-778B-4894-AE75-D10438AE6E8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OriginalApp/Controllers/MainStoryboard.swift/Search/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "magnetic(_:didDeselect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
