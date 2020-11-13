@@ -45,4 +45,4 @@ ToDoリストの時点では、日付しか設定されておらず、時間を�
 ### 評価画面（ふりかえり）
 評価画面では、その日の達成具合を棒グラフで評価したものと、一週間のメンヘラメータの変動が見れる折れ線グラフによる評価画面の二つの画面がある。<br>
 この画面の展望として、最終的にこのデータを分析し、ユーザ個人個人に合わせたリコメンド機能を追加したい。<br>
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_AllPic/menhera_pic07.png.png" width="393" hight="684">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/Kanosapo_Portfolio/Kanosapo_AllPic/menhera_pic07.png" width="393" hight="684">
