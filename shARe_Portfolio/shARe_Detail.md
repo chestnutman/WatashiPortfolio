@@ -19,7 +19,7 @@ shAReは、メモを現実空間上のどこにでも置けて、且つそれを
 ### ＜機能＞
 ### ホーム画面
 ホーム画面では、共有されているまたは自分が作ったルームの表示、追加されたARメモの情報を表示する。<br>
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_Portfolio/shARe_pic04.PNG" width="262" hight="456">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_Portfolio/shARe_AllPic/shARe_pic04.PNG" width="262" hight="456">
 
 <br>
 
@@ -29,7 +29,7 @@ shAReは、メモを現実空間上のどこにでも置けて、且つそれを
 入力後、ARカメラが起動し、物体認識をし始める（黄色い点）。<br>
 画面をタップしてカメラ上にメモを追加・保存することで、配置することができる。<br>
 
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_Portfolio/shARe_pic07.PNG" width="262" hight="456"> <img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_Portfolio/shARe_pic02.PNG" width="262" hight="456"> <img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_Portfolio/shARe_pic03.PNG" width="262" hight="456">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_Portfolio/shARe_AllPic/shARe_pic07.PNG" width="262" hight="456"> <img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_Portfolio/shARe_AllPic/shARe_pic02.PNG" width="262" hight="456"> <img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_Portfolio/shARe_AllPic/shARe_pic03.PNG" width="262" hight="456">
 
 <br>
 
@@ -37,4 +37,4 @@ shAReは、メモを現実空間上のどこにでも置けて、且つそれを
 ホーム画面からメモ情報をタップすると、詳細として、位置情報が表示される。<br>
 メモを保存した際に、現在位置を取得し、そのメモがどこにあるのか表示してくれる。<br>
 メモを共有されている人はその場所に行ってカメラをかざすことで、ARメモを視認することができる。<br>
-<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_Portfolio/shARe_pic05.PNG" width="262" hight="456">
+<img src="https://github.com/chestnutman/WatashiPortfolio/blob/master/shARe_Portfolio/shARe_AllPic/shARe_pic05.PNG" width="262" hight="456">
